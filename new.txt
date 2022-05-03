@@ -1,0 +1,4 @@
+name-kate
+age-29
+pets-0
+salary-1000
