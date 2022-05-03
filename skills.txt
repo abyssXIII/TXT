@@ -1,0 +1,7 @@
+ 1)theory
+    2)client-server architecture
+    3)API testing
+    4)dev tools
+    5)mobile testing
+    6)terminal
+    7)postman
